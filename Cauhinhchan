@@ -1,0 +1,9 @@
+Nút gạt trên kit DE-10	                    Nút nhấn (KEY[2:0]) gồm 3 bit
+SW[0]	PIN_AB30	                            KEY[0]	PIN_AJ4
+SW[1]	PIN_Y27	                                KEY[1]	PIN_AK4
+SW[2]	PIN_AB28	                            KEY[2]	PIN_AA14
+SW[3]	PIN_AC30
+SW[4]	PIN_W25
+SW[5]	PIN_V25
+SW[6]	PIN_AC28
+SW[7]	PIN_AD30
